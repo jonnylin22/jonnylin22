@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Jonathan 👋
 
 I'm a 2nd year Computer Engineering Major at UCI!  
 Check out my [LinkedIn](www.linkedin.com/in/linjonathan001/)! I like basketball and anime. 
