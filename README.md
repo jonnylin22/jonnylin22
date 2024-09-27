@@ -2,7 +2,7 @@
 
 I'm a 2nd year Computer Engineering Major at UCI!  
 Check out my [LinkedIn](www.linkedin.com/in/linjonathan001/)!  
-I like playing basketball. ![rukawa](https://github.com/user-attachments/assets/0bd37439-70a3-4781-ba36-281583681db1)
+I like playing basketball.  <img src = "https://github.com/user-attachments/assets/0bd37439-70a3-4781-ba36-281583681db1"width="100" height="100">
 
 <!--
 **jonnylin22/jonnylin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
