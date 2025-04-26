@@ -1,7 +1,7 @@
 ## Hi I'm Jonathan 👋
 
 I'm a 2nd year Computer Engineering Major at UCI!
-Check out my [LinkedIn](www.linkedin.com/in/linjonathan001/)! I like playing basketball and building desktop computers.   
+Check out my [LinkedIn](https://www.linkedin.com/in/linjonathan001/)! I like playing basketball and building desktop computers.   
 ![Rukawa](https://github.com/user-attachments/assets/50ddca1a-d46a-4686-a299-e4f52ecd0a15)
 
 
